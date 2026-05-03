@@ -148,7 +148,8 @@ print(f"Segment: {segment_names[cluster]}")
 ## Visualisations
 
 The notebook generates **10 visualisation types**:
-
+<img width="1383" height="639" alt="image" src="https://github.com/user-attachments/assets/285fd752-35d7-4f06-8077-1cc03f264950" />
+ 5-cluster Income × Spending plot
 | Plot | What it shows |
 |------|-------------|
 | Distribution plots (3 features) | Age, Income, Spending Score distributions |
